@@ -1,0 +1,3 @@
+/mnt/hgfs/vmshare/code/IPGC_test/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/vmshare/code/IPGC_test/CMakeFiles/edit_cache.dir
+/mnt/hgfs/vmshare/code/IPGC_test/CMakeFiles/main.dir

@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\Lenovo\Desktop\shared by linux\code\IPGC_test
+It is already used for project \mnt\hgfs\vmshare\code\IPGC_test
+
+Please either delete it manually or select another generation directory
